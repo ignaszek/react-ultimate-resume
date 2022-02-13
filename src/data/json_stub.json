@@ -1,23 +1,23 @@
 {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
+        "name": "Dawid Skibicki",
+        "label": "Webmaster",
         "picture": "",
-        "email": "john.doe@mail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "email": "dawid.skibicki@nicsieniedzieje.com",
+        "phone": "(48) 504037538",
+        "website": "http://nicsienjedzieje.com",
+        "summary": "Since September 2021 webmaster helping over 1.000.000 customers of nazwa.pl as second line technical support to migrate their resources, keep services up to date, analyse/fix error codes, pingdom, log search, imap/smtp logs and many many more. I am constantly developing my skills, selling out new techniques and technologies. Resistant to stress, organized, creative, friendly to people and teamwork. I approach my duties with passion and commitment. Strongly goal-oriented and open to new challenges.",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+            "address": "Ul. Konstytucji 3 Maja",
+            "postalCode": "14-200",
+            "city": "Ilawa",
+            "countryCode": "PL",
+            "region": "Warmia-Mazuria"
         },
         "profiles": [
             {
                 "network": "twitter",
-                "username": "@john"
+                "username": "@dawidskibicki"
             },
             {
                 "network": "Portfolio",
@@ -28,40 +28,40 @@
                 "username": "ed3ee82f9630e99db32dec093b2ca07a0368002"
             }, {
                 "network": "github",
-                "username": "clementdevos"
+                "username": "ignaszek"
             },
             {
                 "network": "linkedin",
-                "url": "https://www.linkedin.com/in/%F0%9F%A5%B3-cl%C3%A9ment-devos-4b832526/"
+                "url": "https://www.linkedin.com/in/dawidskibicki/"
             }
         ]
     },
     "work": [
         {
-            "name": "Samsung Engineering",
-            "position": "3D Cad Engineer",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
+            "name": "Nazwa.pl",
+            "position": "Webmaster",
+            "website": "https://nazwa.pl",
+            "startDate": "2021-10-04",
             "summary": "Description...",
-            "location": "Paris, France",
+            "location": "Cracow, Poland",
             "highlights": ["Started the company"]
         },
         {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
+            "name": "Philip Morris International",
+            "position": "IQOS Specialist",
+            "website": "https://pmi.com",
+            "startDate": "2020-01-01",
+            "endDate": "2020-12-31",
             "summary": "Description...",
-            "location": "Paris, France",
+            "location": "Cracow, Poland",
             "highlights": ["Started the company"]
         },
         {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
+            "name": "Baranski Drzwi",
+            "position": "CNC Programmer",
+            "website": "http://baranskidrzwi.com.pl",
             "summary": "Description...",
-            "location": "Paris, France",
+            "location": "Babiety Wielkie, Poland",
             "highlights": ["Started the company"]
         }
     ],
@@ -77,39 +77,13 @@
     ],
     "education": [
         {
-            "institution": "ISEN",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
+            "institution": "ZS Imienia Konstytucji 3 Maja",
+            "area": "administration and economic",
+            "studyType": "High School",
+            "startDate": "2006-09-01",
+            "endDate": "2009-05-31",
             "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        },
-        {
-            "institution": "Université d'artois",
-            "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        }
-    ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
-            "summary": "Description..."
+            "courses": ["Nasza Klasa"]
         }
     ],
     "skills": [
@@ -151,8 +125,8 @@
         }
     ],
     "languages": [
-        { "language": "English", "value": 100, "fluency": "Native speaker" },
-        { "language": "Italien", "value": 15, "fluency": "Native speaker" }
+        { "language": "English", "value": 80, "fluency": "Native speaker" },
+        { "language": "German", "value": 35, "fluency": "Native speaker" }
     ],
     "interests": [
         {
