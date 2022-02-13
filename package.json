@@ -1,7 +1,7 @@
 {
-    "name": "@welovedevs/react-ultimate-resume",
-    "version": "1.2.4-beta.3",
-    "description": "Developer profile for W3D",
+    "name": "@ignaszek/react-ultimate-resume",
+    "version": "1.3",
+    "description": "Dawid Skibicki",
     "main": "lib/index.js",
     "scripts": {
         "start": "cross-env NODE_ENV=local react-scripts start",
@@ -23,9 +23,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/welovedevs/react-ultimate-resume.git"
+        "url": "git+https://github.com/ignaszek/react-ultimate-resume.git"
     },
-    "author": "WeLoveDevs.com",
+    "author": "nicsieniedzieje.com",
     "license": "AGPLv3",
     "peerDependencies": {
         "@material-ui/core": "^4.11.0",
